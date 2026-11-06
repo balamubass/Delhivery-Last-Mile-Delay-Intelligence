@@ -1,0 +1,4 @@
+Model,F1
+Default Random Forest,0.813953488372093
+Grid Search Random Forest,0.8235294117647058
+Randomized Search Random Forest,0.7901234567901234
